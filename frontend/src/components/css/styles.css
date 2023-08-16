@@ -1,0 +1,28 @@
+.gpProgramsMain {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 1050px;
+
+}
+
+.main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    max-width: 1050px;
+    margin: auto;
+    padding-bottom: 3%;
+}
+
+.cardHeader{
+    background-color: #3D3E40 !important;
+
+}
+
+.buttonColor{
+    background-color: #04ade2 !important;
+}
+
+.showButton{
+    text-decoration: none !important;
+}

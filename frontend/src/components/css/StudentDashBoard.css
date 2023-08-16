@@ -1,0 +1,39 @@
+ body {
+    background: linear-gradient(rgb(4,173,226 , 0.5), rgba(4, 173, 226, 0.2))!important;
+}
+
+.border-right {
+    border-right: 1px solid #bcc0c4!important;
+margin-top: 1%;
+}
+
+.horizontal-line {
+    border-bottom: 1px solid#bcc0c4!important;
+  }
+
+  h6 {
+    font-size: 18px;
+}
+.f-w-600 {
+    font-weight: 600;
+}
+
+h3
+{
+    padding-bottom: 10px;
+}
+
+.text-muted {
+    color: #919aa3 !important;
+}
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-t-40 {
+    margin-top: 20px;
+}
+.rounded-circle
+{
+    border: 1px solid#bcc0c4!important;
+}

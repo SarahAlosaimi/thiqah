@@ -1,0 +1,60 @@
+.regsiter{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 1000px;
+
+  }
+  
+  .mainRegLog{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    max-width: 1000px;    
+    margin: auto;
+    padding: 10px;
+  }
+
+
+  .container1 
+  {
+    display: flex; /* Use flexbox for centering */
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh; 
+
+  }
+
+
+  .btn-info  {
+    background: linear-gradient(rgb(4,173,226 , 0.7), rgba(4, 173, 226, 0.4));
+    border: none;
+  }
+
+
+
+  .logo 
+  {
+    padding: 5%;
+  }
+
+
+.text-center 
+{
+  color: #434345;
+}
+
+/* Apply the border on the left for medium and large screens */
+@media (min-width: 768px) {
+  .cover1 {
+    border-left: 1px solid #bcc0c4 !important;
+    border-bottom: none !important;
+  }
+}
+
+/* Apply the border on the bottom for small screens */
+@media (max-width: 767px) {
+  .cover1 {
+    border-left: none !important;
+    border-bottom: 1px solid #bcc0c4 !important;
+  }
+}
