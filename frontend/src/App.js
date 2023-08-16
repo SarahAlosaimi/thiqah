@@ -7,10 +7,7 @@ import GPpage from "./components/GPpage";
 import Profile from "./components/StudentDashBoard"
 
 function App() {
-  // const [token, setToken] = useState();
-  // if(!token) {
-  //   return <Login setToken={setToken} />
-  // }
+
   return (
     <BrowserRouter>
       <div className="App"> 
